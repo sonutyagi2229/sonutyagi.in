@@ -1,7 +1,8 @@
 [
     {
       "name": "Real Time Peer to Peer Server Less Chat",
-      "photo": "https://raw.githubusercontent.com/vishal-pandey/www.vishalpandey.xyz/master/src/assets/portfolio/p2p.png",
+      "photo": "/assests/Uploads/CSM.jpg",
+      
       "link": "https://server-less.vishalpandey.xyz/",
       "github": "https://github.com/vishal-pandey/server-less-chat",
       "tech": "Javascript, HTML, Angular, PeerJs, WebRTC",
