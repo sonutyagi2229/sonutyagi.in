@@ -1,9 +1,8 @@
 [
     {
       "name": "Real Time Peer to Peer Server Less Chat",
-      "photo": "/assests/Uploads/CSM.jpg",
-      
-      "link": "https://server-less.vishalpandey.xyz/",
+      "photo": "/assets/Uploads/CSM.jpg",
+          "link": "https://server-less.vishalpandey.xyz/",
       "github": "https://github.com/vishal-pandey/server-less-chat",
       "tech": "Javascript, HTML, Angular, PeerJs, WebRTC",
       "feat": "Share the peer key to your friend and start to chat with your friend without worrying about security as it directly transmit data, audio, video feeds directly your friend compyter with the help of WebRTC protocol"
